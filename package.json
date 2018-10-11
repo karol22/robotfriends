@@ -6,8 +6,10 @@
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "react-scripts": "2.0.4",
+    "serve": "^10.0.2",
     "tachyons": "^4.11.1"
   },
+  "homepage": "https://karol22.github.io/robotfriends",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
