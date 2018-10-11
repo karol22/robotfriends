@@ -1,3 +1,7 @@
+Hi there!
+If you want to see my app, click https://karol22.github.io/robotfriends/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
